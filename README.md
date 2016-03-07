@@ -1,4 +1,1 @@
-# c101
-# c101
-# c101-theme
-# c101-theme
+This is the WP theme for conscientization101.com
